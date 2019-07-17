@@ -1,0 +1,8 @@
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\bin\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.deps.json
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\bin\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.dll
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\bin\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.pdb
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\obj\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.csproj.CoreCompileInputs.cache
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\obj\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.AssemblyInfoInputs.cache
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\obj\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.AssemblyInfo.cs
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\obj\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.dll
+D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\obj\Debug\netcoreapp2.2\MiCo.Tool.ExtendsionMethod.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MiCo.Tool.ExtendsionMethod</id>
+    <version>1.0.1</version>
+    <authors>MiCo.Tool.ExtendsionMethod</authors>
+    <owners>MiCo.Tool.ExtendsionMethod</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>新增常用的类扩展方法</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\0-leiling\1-project\DotCoreBasic\MiCo.Tool.ExtendsionMethod\bin\Debug\netcoreapp2.0\MiCo.Tool.ExtendsionMethod.dll" target="lib\netcoreapp2.0\MiCo.Tool.ExtendsionMethod.dll" />
+  </files>
+</package>

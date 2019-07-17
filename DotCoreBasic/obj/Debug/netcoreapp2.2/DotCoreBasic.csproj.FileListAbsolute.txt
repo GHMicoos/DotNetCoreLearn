@@ -1,0 +1,14 @@
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\bin\Debug\netcoreapp2.2\DotCoreBasic.deps.json
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\bin\Debug\netcoreapp2.2\DotCoreBasic.runtimeconfig.json
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\bin\Debug\netcoreapp2.2\DotCoreBasic.runtimeconfig.dev.json
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\bin\Debug\netcoreapp2.2\DotCoreBasic.dll
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\bin\Debug\netcoreapp2.2\DotCoreBasic.pdb
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.csprojAssemblyReference.cache
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.csproj.CoreCompileInputs.cache
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.RazorAssemblyInfo.cache
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.RazorAssemblyInfo.cs
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.AssemblyInfoInputs.cache
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.AssemblyInfo.cs
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.RazorTargetAssemblyInfo.cache
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.dll
+D:\0-leiling\1-project\DotCoreBasic\DotCoreBasic\obj\Debug\netcoreapp2.2\DotCoreBasic.pdb
